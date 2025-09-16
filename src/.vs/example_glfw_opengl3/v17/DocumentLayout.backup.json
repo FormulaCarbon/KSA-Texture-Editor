@@ -3,25 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_tables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\backends\\imgui_impl_opengl3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Menubar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:Menubar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\backends\\imgui_impl_glfw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Menubar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:Menubar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Viewport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:Viewport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_widgets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Viewport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:Viewport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Configurator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:Configurator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Configurator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A1FB5EA-22F5-42A8-AB92-1D2DF5D47FB9}|example_glfw_opengl3.vcxproj|solutionrelative:Configurator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,58 +49,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "imgui_tables.cpp",
-              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_tables.cpp",
-              "RelativeDocumentMoniker": "..\\imgui\\imgui_tables.cpp",
-              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_tables.cpp",
-              "RelativeToolTip": "..\\imgui\\imgui_tables.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "Application.cpp",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Application.cpp",
+              "RelativeToolTip": "Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T15:10:10.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "imgui_impl_opengl3.cpp",
-              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\backends\\imgui_impl_opengl3.cpp",
-              "RelativeDocumentMoniker": "..\\imgui\\backends\\imgui_impl_opengl3.cpp",
-              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\backends\\imgui_impl_opengl3.cpp",
-              "RelativeToolTip": "..\\imgui\\backends\\imgui_impl_opengl3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T15:10:10.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "imgui_impl_glfw.cpp",
-              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\backends\\imgui_impl_glfw.cpp",
-              "RelativeDocumentMoniker": "..\\imgui\\backends\\imgui_impl_glfw.cpp",
-              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\backends\\imgui_impl_glfw.cpp",
-              "RelativeToolTip": "..\\imgui\\backends\\imgui_impl_glfw.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T15:10:09.965Z",
+              "WhenOpened": "2025-09-16T19:11:18.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "imgui_draw.cpp",
-              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_draw.cpp",
-              "RelativeDocumentMoniker": "..\\imgui\\imgui_draw.cpp",
-              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_draw.cpp",
-              "RelativeToolTip": "..\\imgui\\imgui_draw.cpp",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\main.cpp",
+              "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T15:10:09.825Z",
+              "WhenOpened": "2025-09-16T20:20:35.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menubar.cpp",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Menubar.cpp",
+              "RelativeDocumentMoniker": "Menubar.cpp",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Menubar.cpp",
+              "RelativeToolTip": "Menubar.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T20:14:04.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menubar.h",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Menubar.h",
+              "RelativeDocumentMoniker": "Menubar.h",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Menubar.h",
+              "RelativeToolTip": "Menubar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-16T20:13:52.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Viewport.h",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Viewport.h",
+              "RelativeDocumentMoniker": "Viewport.h",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Viewport.h",
+              "RelativeToolTip": "Viewport.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-16T20:13:34.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Viewport.cpp",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Viewport.cpp",
+              "RelativeDocumentMoniker": "Viewport.cpp",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Viewport.cpp",
+              "RelativeToolTip": "Viewport.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T20:13:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configurator.cpp",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Configurator.cpp",
+              "RelativeDocumentMoniker": "Configurator.cpp",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Configurator.cpp",
+              "RelativeToolTip": "Configurator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T20:10:35.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configurator.h",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Configurator.h",
+              "RelativeDocumentMoniker": "Configurator.h",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Configurator.h",
+              "RelativeToolTip": "Configurator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-16T20:08:17.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Application.h",
+              "RelativeDocumentMoniker": "Application.h",
+              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\src\\Application.h",
+              "RelativeToolTip": "Application.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-16T19:10:48.006Z",
               "EditorCaption": ""
             },
             {
@@ -93,40 +180,10 @@
               "RelativeDocumentMoniker": "..\\imgui\\imgui_demo.cpp",
               "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_demo.cpp",
               "RelativeToolTip": "..\\imgui\\imgui_demo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8iAAAAAAAAAAAvwDgiAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-16T15:10:09.664Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "imgui.cpp",
-              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui.cpp",
-              "RelativeDocumentMoniker": "..\\imgui\\imgui.cpp",
-              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui.cpp",
-              "RelativeToolTip": "..\\imgui\\imgui.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T15:10:09.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "imgui_widgets.cpp",
-              "DocumentMoniker": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_widgets.cpp",
-              "RelativeDocumentMoniker": "..\\imgui\\imgui_widgets.cpp",
-              "ToolTip": "C:\\Users\\scigu\\Documents\\GitHub\\KSA-Texture-Editor\\imgui\\imgui_widgets.cpp",
-              "RelativeToolTip": "..\\imgui\\imgui_widgets.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T15:10:08.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

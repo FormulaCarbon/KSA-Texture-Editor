@@ -34,6 +34,18 @@
     <ClCompile Include="..\imgui\imgui_tables.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Configurator.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewport.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Menubar.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\imgui\imconfig.h">
@@ -53,6 +65,18 @@
     </ClInclude>
     <ClInclude Include="..\imgui\imgui_internal.h">
       <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Configurator.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewport.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Menubar.h">
+      <Filter>sources</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

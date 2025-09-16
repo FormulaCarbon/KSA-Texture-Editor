@@ -5,4 +5,8 @@ C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\imgui\imgui_tables.cpp;C:\Use
 C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\imgui\imgui_widgets.cpp;C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Debug\imgui_widgets.obj
 C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\imgui\backends\imgui_impl_glfw.cpp;C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Debug\imgui_impl_glfw.obj
 C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\imgui\backends\imgui_impl_opengl3.cpp;C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Debug\imgui_impl_opengl3.obj
+C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Application.cpp;C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Debug\Application.obj
+C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Configurator.cpp;C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Debug\Configurator.obj
 C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\main.cpp;C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Debug\main.obj
+C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Menubar.cpp;C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Debug\Menubar.obj
+C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Viewport.cpp;C:\Users\scigu\Documents\GitHub\KSA-Texture-Editor\src\Debug\Viewport.obj
